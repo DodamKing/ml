@@ -1,2 +1,6 @@
 /data/
 /.ipynb_checkpoints/
+/sample/
+
+
+inception_v3.h5
